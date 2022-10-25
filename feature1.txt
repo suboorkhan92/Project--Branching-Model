@@ -1,3 +1,7 @@
 added feature 1
 added line 2 in feature 1
+<<<<<<< HEAD
 Rebased feature 1 to integration
+=======
+modifiying the for the third time
+>>>>>>> feature1
