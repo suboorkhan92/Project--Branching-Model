@@ -1,2 +1,3 @@
 this is feature 2 added
 line 2 added
+merged the file in integration branch
