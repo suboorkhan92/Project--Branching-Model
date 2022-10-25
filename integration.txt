@@ -1,2 +1,3 @@
 this is integration text file
+added integration file to hot fix
 added modified feature1 to intgration branch once more
